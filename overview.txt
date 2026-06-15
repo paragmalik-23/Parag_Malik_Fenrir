@@ -1,0 +1,6 @@
+PixelVault - Online Gaming Website
+Category: Web Development
+
+PixelVault is a simple web page where users can play casual games. It runs in any web browser and contains three simple games: Rock Paper Scissors, Flappy Bird, and Word Scramble. 
+
+The website has a dashboard that shows user scores and total games played. It saves these scores on the user's computer using the browser's localStorage. The page uses a dark layout with brand colors (gold and purple) and simple game cards. It works on both mobile phones and desktop computers.

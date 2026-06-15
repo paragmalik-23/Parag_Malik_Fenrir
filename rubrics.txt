@@ -1,0 +1,30 @@
+1. The folder is named exactly parag_malik and has six files inside.
+2. The folder contains overview.txt scope_of_work.txt assets.pdf reference_image.png instructions.md and rubrics.txt.
+3. The file index.html is written in semantic HTML tags including header main section and footer.
+4. The HTML page does not import any external framework script including React or Vue or jQuery.
+5. The HTML code has no inline JavaScript event handlers in the markup.
+6. All image tags in index.html contain a non empty alt attribute.
+7. The styles.css file defines CSS variables in the root selector for the brand colors.
+8. The background color of the body is defined as #0F0F10.
+9. Card surfaces and card borders use the brand color #2A2B30.
+10. Active text and glowing highlights use the brand color #FFC107.
+11. Passive buttons and subtext elements use the brand color #9C27B0.
+12. Headings and logos use the Orbitron Google Font.
+13. Body text and dashboard stats tables use the Inter Google Font.
+14. The layout shifts elements dynamically across screen sizes using CSS Grid or Flexbox.
+15. The game selection grid contains three individual game cards.
+16. The site remains fully readable at mobile viewport widths under 576 pixels.
+17. The dashboard displays the total games played across all games.
+18. The dashboard has a button labeled Reset Statistics that clears statistics from the dashboard.
+19. The Reset Statistics button clears the localStorage key named pixelvault_stats.
+20. Clicking a game card triggers a modal window that overlays the screen.
+21. The Rock Paper Scissors game lists choice buttons for Rock Paper and Scissors.
+22. The Rock Paper Scissors game registers the computer selection on every turn.
+23. The Flappy Bird game renders the game board inside an HTML5 canvas element.
+24. The Flappy Bird game bird jumps up when the user clicks or presses the spacebar.
+25. The Flappy Bird game speed increases after every five obstacle pipes are cleared.
+26. The Flappy Bird game triggers a game over screen when the bird hits canvas boundaries.
+27. The Word Scramble game scrambles letter positions of a word on start.
+28. The Word Scramble game registers typed answers from the input field.
+29. The navigation bar features a button to toggle the global sound state.
+30. Disabling sound via the toggle stops the background music cyber_beats.mp3.

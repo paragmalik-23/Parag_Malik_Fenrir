@@ -1,0 +1,21 @@
+PixelVault - Scope of Work
+Category: Web Development
+
+1. IN-SCOPE REQUIREMENTS:
+- A web page with a header navigation bar, a main hero banner, a three card game catalog, a statistics dashboard area, a task modal window to play games, and a footer.
+- A dark layout using four brand colors (hex codes #0F0F10, #2A2B30, #FFC107, and #9C27B0).
+- Google Fonts (Orbitron for headers and Inter for card details and text).
+- Three playable games:
+  * Rock Paper Scissors: Selection buttons for user, random computer choice, win or loss checks, and score counts.
+  * Flappy Bird: Canvas element drawing loop, spacebar or click to jump, pipes spawn as obstacles, speed increases, and pipe/floor collision crashes.
+  * Word Scramble: Letter scrambling logic, user text typing input, check button, hint reveal, and score updates.
+- Statistics Dashboard: Displays total games played, wins count, high score, and correct words count.
+- Local Storage: Saves all statistics under the key named "pixelvault_stats" so data remains after a page reload.
+- Reset Button: A button to clear all statistics from local storage and update the counters on the page immediately.
+- Global Mute Toggle: Navbar button to turn off and on all background tracks and click or score sound effects.
+
+2. OUT-OF-SCOPE ITEMS (EXCLUDED):
+- Multiplayer features using databases or web sockets.
+- Server-side backends (Node.js, Express, databases, user account logins).
+- Online payments or ads.
+- 3D visual graphics or frameworks (Three.js, Phaser).
